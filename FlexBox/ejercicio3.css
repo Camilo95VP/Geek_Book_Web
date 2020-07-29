@@ -1,0 +1,25 @@
+body{
+ margin: 1%;
+ background: beige;
+    
+}
+
+.menu{
+    margin-left: 20px;
+    margin-right: 20px;
+    background: rgb(255, 251, 0);
+    height: 45px;
+    border-bottom: 1px solid rgb(3, 3, 3);
+    display: flex;
+    justify-content: space-between;
+}
+ 
+
+.menu a{
+     font-family:Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-weight: bold;
+     display: flex;
+     flex: 1;
+     justify-content: center;
+ }

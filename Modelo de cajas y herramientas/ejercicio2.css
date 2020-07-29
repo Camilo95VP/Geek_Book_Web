@@ -1,0 +1,13 @@
+.uno{
+    display: block;
+    display: inline;
+    display: inline-block;
+    /*display: none;*/
+}
+
+.imagen{
+    margin-left: 30%;
+    margin-right: 30%;
+    overflow: hidden;
+    padding: 100*100;
+}

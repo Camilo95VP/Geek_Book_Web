@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    /*flex-direction: column;*/
+
+}
+
+.caja{
+    width: 30px;
+    height: 1fr;
+    background-color: gold;
+    margin: 1px;
+    
+}
