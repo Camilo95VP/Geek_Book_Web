@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+  }
+  .box {
+    background: rgb(146, 146, 146);
+    /*
+    35% de ancho y 35% de alto
+    */
+    width: 100vw; 
+    height: 100vh;
+}
+
+    @media all and (min-width:480px){
+        .box{
+            background-color: red;
+        }
+    
+        @media all and (min-width:480px), (max-width:768px) {
+            .box{
+                background-color: rgb(255, 230, 0);
+            }
+        }
+
+    @media all and (max-width:768px){
+            .box{
+                background-color: rgb(0, 255, 13);
+            }
+        }
+
+
+
+}

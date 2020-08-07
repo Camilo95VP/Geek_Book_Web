@@ -1,0 +1,13 @@
+body{
+    border: 8px;
+}
+
+.contenedor-padre{
+    margin: 106px;
+    text-align: center;
+}
+
+.contenido .texto{
+    max-width: 600px;
+}
+

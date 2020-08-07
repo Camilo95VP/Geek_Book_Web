@@ -1,0 +1,36 @@
+.contenedor_padre{
+    padding: 20px;
+    font-size: 18px;
+    margin: 1fr;
+    background-color: yellow;
+    
+ }   
+    
+
+@media all and (min-width:768px) {
+    .contenedor_padre {
+    background-color: rgb(102, 102, 255);    
+    margin-bottom: 30px;
+    margin: 40px;
+    font-size: 28px;
+}
+
+@media all and (min-width:1140px) { 
+    .contenedor_padre {
+    background-color: rgb(209, 89, 113);
+    margin-bottom: 190px;
+    margin: auto;
+    max-width: 750px;
+    font-size: 42px;
+}
+
+
+
+
+.tittle{
+    font-size: 32px;
+    text-align: center;
+
+}
+}
+}

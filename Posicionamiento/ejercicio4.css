@@ -1,0 +1,18 @@
+.capa1{
+    background-color: orangered;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.capa2{
+    background-color: rgb(229, 255, 0);
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    width: 100px;
+    height: 100px;
+    transform: translate(-50%, -50%);
+}
